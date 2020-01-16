@@ -16,7 +16,3 @@ Samples of how to use the API [are available here](samples).
 ```
 go test ./...
 ```
-
-Documentation
-
-Documentation is in development
